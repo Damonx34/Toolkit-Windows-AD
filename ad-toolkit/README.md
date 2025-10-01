@@ -1,5 +1,7 @@
 ﻿# AD Toolkit — enum & checks (labo / pentest éducatif)
 
+**CRÉÉ PAR : Damonx**
+
 **Résumé rapide**  
 AD Toolkit est un ensemble d'outils pédagogiques pour l'**énumération** et la **vérification** de configurations d'Active Directory. Il aide à collecter des informations (LDAP/DNS), exécuter des checks de sécurité non destructifs et générer des rapports JSON/HTML.
 
