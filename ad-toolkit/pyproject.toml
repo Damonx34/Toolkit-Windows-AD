@@ -1,0 +1,5 @@
+﻿[tool.poetry]
+name = "ad-toolkit"
+version = "0.1.0"
+description = "AD enum & checks toolkit"
+authors = ["Quentin <you@example.com>"]

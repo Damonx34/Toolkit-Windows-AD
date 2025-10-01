@@ -1,0 +1,4 @@
+﻿# Exemple de config (éditer selon ton labo)
+# domain: corp.example.lab
+# bind_user: LAB\quentin
+# bind_password: SuperSecret!

@@ -1,0 +1,8 @@
+{
+  "target": "corp.example.lab",
+  "ldap": {
+    "connected": false,
+    "info": {},
+    "users": []
+  }
+}
